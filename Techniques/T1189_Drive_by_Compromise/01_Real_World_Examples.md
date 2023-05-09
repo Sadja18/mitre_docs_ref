@@ -1,0 +1,7 @@
+## Recent Occurrences:
+
+- From 2017 to 2018, a Chinese hacker group called **LuckyMouse** was behind a bold [cyber espionage campaign](https://securelist.com/luckymouse-hits-national-data-center/86083/). The campaign targeted a large national data center in central Asia with watering hole attacks to try and gain access to sensitive government information and assets. Members of **LuckyMouse** successfully injected malicious Javascript code into official government websites that the data center employees frequently consulted. That resulted in the victims being infected with a [Remote Access Trojan](https://www.geeksforgeeks.org/remote-access-trojan/), providing the attackers with remote access to the compromised systems[<sup>1</sup>](https://securelist.com/luckymouse-hits-national-data-center/86083/).
+
+- In late July 2022, a cryptocurrency mining malware campaign was detected that infected devices in 11 countries[<sup>2</sup>](https://thehackernews.com/2022/08/nitrokod-crypto-miner-infected-over.html).
+
+- In September 2022, the **SolarMarker** group compromised a vulnerable website run by WordPress to entice its victims to download fake Chrome browser updates[<sup>3</sup>](https://unit42.paloaltonetworks.com/solarmarker-malware/).

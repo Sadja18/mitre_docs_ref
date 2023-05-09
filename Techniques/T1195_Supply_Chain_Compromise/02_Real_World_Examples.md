@@ -1,0 +1,3 @@
+## Past Occurrences
+
+- In November of 2018, the Node.js library called **`event-stream`**, a toolkit for developers to create and work with streams was compromised after the library was injected with malicious code programmed to steal bitcoins in wallet apps[<sup>[1]</sup>](https://www.trendmicro.com/vinfo/dk/security/news/cybercrime-and-digital-threats/hacker-infects-node-js-package-to-steal-from-bitcoin-wallets).

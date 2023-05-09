@@ -1,0 +1,9 @@
+## **Domain Accounts**
+
+**ID** : ***T1078.002***
+
+Adversaries may obtain and abuse credentials of a domain account.
+
+- Domain accounts are those managed by Active Directory Domain Services where access and permissions are configured across systems and services that are part of that domain. 
+
+- Domain accounts can cover users, administrators, and services. 
