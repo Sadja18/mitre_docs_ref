@@ -1,3 +1,48 @@
+## <ins>Windows Management Instrumentation</ins>  
+
+**ID** : **`T1047`**
+
+| S.No. | ID | Tactics |
+| --- | --- | --- |
+| 1. | `TA0002` | **Execution** |
+
+Adversaries may abuse Windows Management Instrumentation (WMI) to execute malicious commands and payloads.
+
+An adversary can use WMI to interact with local and remote systems and use it as a means to execute various behaviors, such as gathering information for Discovery as well as remote Execution of files as part of [**Lateral Movement**](https://attack.mitre.org/tactics/TA0008/).
+
+---
+
+## <ins>Scheduled Task/Job</ins>  
+
+**ID** : **`T1053`**
+
+| S.No. | ID | Tactics |
+| --- | --- | --- |
+| 1. | `TA0002` | **Execution** |
+| 2. | `TA0003` | **Persistence** |
+| 3. | `TA0004` | **Privilege Escalation** |
+
+
+Adversaries may abuse task scheduling functionality to facilitate initial or recurring execution of malicious code. 
+
+Adversaries may use task scheduling to execute programs at system startup or on a scheduled basis for persistence.
+
+---
+
+## <ins>Command And Scripting Interpreter</ins>  
+
+**ID** : **`T1059`**
+
+| S.No. | ID | Tactics |
+| --- | --- | --- |
+| 1. | `TA0002` | **Execution** |
+
+Adversaries may abuse command and script interpreters to execute commands, scripts, or binaries. 
+
+---
+
+
+
 ## <ins>Valid Accounts</ins>  
 
 **ID** : **`T1078`**
