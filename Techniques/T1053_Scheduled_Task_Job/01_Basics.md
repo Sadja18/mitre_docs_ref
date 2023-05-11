@@ -2,6 +2,8 @@
 
 **ID** : **`T1053`**
 
+___
+
 | S.No. | ID | Tactics |
 | --- | --- | --- |
 | 1. | `TA0002` | **Execution** |
@@ -22,7 +24,10 @@ Platforms |
 | --- |
 | **`Administrator`**, **`SYSTEM`**, **`User `** |
 
+
 **Supports Remote**:  **`Yes`** 
+
+___
 
 Adversaries may abuse task scheduling functionality to facilitate initial or recurring execution of malicious code. 
 

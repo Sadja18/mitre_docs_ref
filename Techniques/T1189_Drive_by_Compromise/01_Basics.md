@@ -1,8 +1,17 @@
 **ID** : **`T1189`**
 
+---
+
 | S.No. | ID | Tactics |
 | --- | --- | --- |
 | 1. | `TA0001` | **Initial Access** |
+
+
+| Platforms | 
+| --- | 
+| **`Linux`**, **`SaaS`**, **`Windows`**, **`macOS`**  |
+
+---
 
 Adversaries may gain access to a system through a user visiting a website over the normal course of browsing.
 

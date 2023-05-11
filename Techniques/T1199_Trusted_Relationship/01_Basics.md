@@ -1,9 +1,18 @@
 
 **ID** : **`T1199`**
 
+---
+
 | S.No. | ID | Tactics |
 | --- | --- | --- |
 | 1. | `TA0001` | **Initial Access** |
+
+| Platforms |
+| --- |
+| `IaaS`, `Linux`, `Office 365`, |
+|`SaaS`, `Windows`, `macOS` |
+
+---
 
 Adversaries may breach or otherwise leverage organizations who have access to intended victims. 
 Access through trusted third party relationship abuses an existing connection that may not be protected or receives less scrutiny than standard mechanisms of gaining access to a network.

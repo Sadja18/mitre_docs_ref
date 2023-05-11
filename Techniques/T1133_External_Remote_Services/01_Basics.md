@@ -1,9 +1,20 @@
 **ID** : **`T1133`**
 
+---
+
 | S.No. | ID | Tactics |
 | --- | --- | --- |
 | 1. | `TA0001` | **Initial Access** |
 | 2. | `TA0003` | **Persistence** |
+
+| Platforms | 
+| --- | 
+| Containers,  |
+| Linux, 
+| Windows, 
+| macOS  |
+
+---
 
 Adversaries may leverage external-facing remote services to initially access and/or persist within a network.
 

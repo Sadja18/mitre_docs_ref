@@ -1,8 +1,16 @@
 **ID** : **`T1195`**
 
+---
+
 | S.No. | ID | Tactics |
 | --- | --- | --- |
 | 1. | **`TA0001`** | **Initial Access** |
+
+| Platforms |
+| --- |
+| `Linux`, `Windows`, `macOS` |
+
+---
 
 Adversaries may manipulate products or product delivery mechanisms prior to receipt by a final consumer for the purpose of data or system compromise.
 

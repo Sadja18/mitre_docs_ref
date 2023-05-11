@@ -2,6 +2,8 @@
 
 **ID** : ***T1078.001***
 
+---
+
 | Platforms |
 | --- |
 | **`Azure AD`**, **`Containers`**, **`Google Workspace`**, |
@@ -13,6 +15,8 @@
 | Permissions Required |
 | --- |
 | **`Administrator`**, **`User `** |
+
+---
 
 Adversaries may obtain and abuse credentials of a default account. 
 

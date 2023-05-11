@@ -2,6 +2,8 @@
 
 **ID** : **`T1078`**
 
+---
+
 | S.No. | ID | Tactics |
 | --- | --- | --- |
 | 1. | `TA0001` | **Initial Access** |
@@ -31,6 +33,8 @@
 | **`Anti-virus`**, **`Application Control`**, |
 | **`Firewall`**, **`Host Intrusion Prevention Systems`**, |
 | **`Network Intrusion Detection System`**, **`System Access Controls`** | 
+
+---
 
 Adversaries may obtain and abuse credentials of existing accounts.
 

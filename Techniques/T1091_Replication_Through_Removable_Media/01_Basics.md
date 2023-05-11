@@ -2,10 +2,23 @@
 
 **ID** : **`T1091`**
 
+----
+
 | S.No. | ID | Tactics |
 | --- | --- | --- |
 | 1. | `TA0001`| **Initial Access** |
 | 2. | `TA0008` | **Lateral Movement** |
+
+| Platforms |
+| --- |
+| **`Windows`** |
+
+| System Requirements |
+| --- |
+| Removable media allowed, |
+| Autorun enabled or vulnerability present that allows for code execution | 
+
+---
 
 Adversaries may move onto systems, possibly those on disconnected or air-gapped networks, by copying malware to removable media and taking advantage of Autorun features when the media is inserted into a system and executes.
 

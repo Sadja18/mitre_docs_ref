@@ -2,6 +2,8 @@
 
 **ID** : ***T1078.002***
 
+---
+
 | Platforms | 
 | --- | 
 | **`Linux, Windows, macOS`** |
@@ -11,6 +13,7 @@
 | --- | 
 | **`Administrator, User`** |
 
+---
 
 Adversaries may obtain and abuse credentials of a domain account.
 

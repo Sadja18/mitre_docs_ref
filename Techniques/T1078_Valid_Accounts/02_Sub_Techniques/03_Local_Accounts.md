@@ -2,6 +2,8 @@
 
 **ID** : ***T1078.002*** 
 
+---
+
 | Platforms | 
 | --- | 
 | **`Linux, Windows, macOS`** |
@@ -10,6 +12,8 @@
 | Permissions Required | 
 | --- | 
 | **`Administrator, User`** |
+
+---
 
 Adversaries may obtain and abuse credentials of a local account.
 

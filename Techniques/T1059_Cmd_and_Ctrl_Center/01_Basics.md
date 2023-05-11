@@ -2,6 +2,8 @@
 
 **ID** : **`T1059`**
 
+---
+
 | S.No. | ID | Tactics |
 | --- | --- | --- |
 | 1. | `TA0002` | **Execution** |
@@ -19,6 +21,8 @@
 | **`macOS`** |
 
 **Supports Remote**:  **`Yes`** 
+
+---
 
 Adversaries may abuse task scheduling functionality to facilitate initial or recurring execution of malicious code. 
 

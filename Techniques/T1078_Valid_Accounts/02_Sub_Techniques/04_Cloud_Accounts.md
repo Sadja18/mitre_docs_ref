@@ -2,6 +2,8 @@
 
 **ID** : ***T1078.004***
 
+---
+
 | Platforms | 
 | --- | 
 |**`Azure AD`**, **`Google Workspace`**, |
@@ -12,6 +14,8 @@
 | Permissions Required | 
 | --- | 
 | **`Administrator, User`** |
+
+---
 
 Adversaries may obtain and abuse credentials of a cloud account.
 

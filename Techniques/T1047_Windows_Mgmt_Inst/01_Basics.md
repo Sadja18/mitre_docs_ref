@@ -2,15 +2,21 @@
 
 **ID** : **`T1047`**
 
+--- 
+
 | S.No. | ID | Tactics |
 | --- | --- | --- |
 | 1. | `TA0002` | **Execution** |
+
 
 | Platforms |
 | --- |
 | **`Windows`** |
 
+
 **Supports Remote**:  **`Yes`** 
+
+----
 
 Adversaries may abuse Windows Management Instrumentation (WMI) to execute malicious commands and payloads.
 
