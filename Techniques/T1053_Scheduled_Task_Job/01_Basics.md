@@ -8,6 +8,22 @@
 | 2. | `TA0003` | **Persistence** |
 | 3. | `TA0004` | **Privilege Escalation** |
 
+
+Platforms |
+| --- |
+| **`Containers`**, **`Linux`**, **`Windows`**, **`macOS`** |
+
+
+| Permissions Required |
+| --- |
+| **`Administrator`**, **`SYSTEM`**, **`User `** |
+
+| Effective Permissions | 
+| --- |
+| **`Administrator`**, **`SYSTEM`**, **`User `** |
+
+**Supports Remote**:  **`Yes`** 
+
 Adversaries may abuse task scheduling functionality to facilitate initial or recurring execution of malicious code. 
 
 Adversaries may use task scheduling to execute programs at system startup or on a scheduled basis for persistence. 

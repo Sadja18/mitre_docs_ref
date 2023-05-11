@@ -6,6 +6,12 @@
 | --- | --- | --- |
 | 1. | `TA0002` | **Execution** |
 
+| Platforms |
+| --- |
+| **`Windows`** |
+
+**Supports Remote**:  **`Yes`** 
+
 Adversaries may abuse Windows Management Instrumentation (WMI) to execute malicious commands and payloads.
 
 `WMI is an administration feature that provides a uniform environment to access Windows system components.`
