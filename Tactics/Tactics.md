@@ -6,7 +6,7 @@
 | 2. | **`TA0002`** | **Execution** |
 | 3. | **`TA0003`** | **Persistence** |
 | 4. | **`TA0004`** | **Privilege Escalation** |
-| 5. | **`TA0005`** | **Defence Evasion** |
+| 5. | **`TA0005`** | **Defense Evasion** |
 | 6. | **`TA0006`** | **Credential Access** |
 | 7. | **`TA0007`** | **Discovery** |
 | 8. | **`TA0008`** | **Lateral Movement** |
